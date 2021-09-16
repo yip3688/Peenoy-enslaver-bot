@@ -10,7 +10,7 @@ module.exports = {
   Scopes: ["identify", "guilds", "applications.commands"], //Discord OAuth2 Scopes
   CallbackURL: "/api/callback", //Discord OAuth2 Callback URL
   "24/7": false, //If you want the bot to be stay in the vc 24/7
-  CookieSecret: "AcroLikesMen", //A Secret like a password
+  CookieSecret: "", //A Secret like a password
   IconURL:
     "https://cdn.discordapp.com/emojis/818637192657633321.gif?v=1", //URL of all embed author icons | Dont edit unless you dont need that Music CD Spining
   Permissions: 2205280576, //Bot Inviting Permissions
